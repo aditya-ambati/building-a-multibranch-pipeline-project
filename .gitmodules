@@ -1,3 +1,4 @@
 [submodule "multibranch-jenkinsfile-repo"]
 	path = multibranch-jenkinsfile-repo
 	url = git@github.com:aditya-ambati/multibranch-jenkinsfile-repo.git
+	ignore = all
